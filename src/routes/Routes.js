@@ -1,0 +1,16 @@
+export const ROUTES = {
+  HOME: "/home",
+  LOGIN: "/login",
+  REGISTER: "/register",
+  CONFIRMCODEPAGE: "/confirm",
+  RESTAURANTS: "/restaurants",
+  RESTAURANTSFORM: "/restaurantsform",
+  RESTAURANTSFORMID: "/restaurantupdate",
+  RESTAURANTSBOOKING: "/resbooking",
+  CARS: "/cars",
+  CARBOOKING: "/carbooking",
+  TOURS: "/tours",
+  TOURSBOOKING: "/toursbooking",
+  ERRORPAGE: "/error/:errorCode",
+  PREVIEWRESTAURANT: "/respreview",
+};
